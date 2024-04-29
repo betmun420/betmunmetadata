@@ -1,0 +1,17 @@
+{
+  "name": "betmun",
+  "symbol": "BETMUN",
+  "description": "In Gethum's shadow, a new meme rises.",
+  "image": "https://raw.githubusercontent.com/betmun420/betmunmetadata/main/betmun.png",
+  "extensions": {
+    "website": "https://betmun.xyz",
+    "twitter": "https://x.com/betmunworld"
+  },
+  "tags": [
+    "Meme"
+  ],
+  "creator": {
+    "name": "BETMUN",
+    "site": "https://betmun.xyz"
+    }
+  }
